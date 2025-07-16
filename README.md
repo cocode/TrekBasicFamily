@@ -14,13 +14,13 @@ which was written in BASIC. That goal has been achieved.
 
 TrekBasic is part of the TrekBasic family of BASIC programming tools.
 
-| Tool | Description | Language | Interpreter | Compiler | Graal |
-|------|-------------|----------|-------------|----------|-------|
-|[TrekBasic](https://github.com/cocode/TrekBASIC) | Basic compiler and interpreter | Python | Yes | Yes | - |
-|[TrekBasicJ](https://github.com/cocode/TrekBasicJ)|Basic compiler and interpreter|Java|Yes|Yes|pending|
-|[BasicRS](https://github.com/cocode/BasicRS)|Basic compiler written|Rust|Yes|pending|-|
-|[BasicTestSuite](https://github.com/cocode/BasicTestSuite)|A test suite for Basic|BASIC||-|-|-||
-[TrekBot](https://github.com/cocode/TrekBot)|A tool to exercise the superstartrek program|Rust|
+| LOGO | Tool | Description | Language | Interpreter | Compiler | Graal |
+|-|------|-------------|----------|-------------|----------|-------|
+|<img src="https://raw.githubusercontent.com/cocode/TrekBASIC/refs/heads/master/images/TrekBasicLogo.png" alt="Logo" width="50" height="25">|[TrekBasic](https://github.com/cocode/TrekBASIC) | Basic compiler and interpreter | Python | Yes | Yes | no |
+|<img src="https://raw.githubusercontent.com/cocode/TrekBasicJ/main/images/logo7.png" alt="Logo" width="50" height="25">|[TrekBasicJ](https://github.com/cocode/TrekBasicJ)|Basic compiler and interpreter|Java|Yes|Yes|
+|<img src="https://raw.githubusercontent.com/cocode/BasicRS/master/images/logo2.png" alt="Logo" width="50" height="25">|[BasicRS](https://github.com/cocode/BasicRS)|Basic compiler written|Rust|Yes|pending|-|
+|<img src="https://github.com/cocode/BasicTestSuite/blob/main/images/BasicTestSuiteLogo3.png" alt="Logo" width="50" height="25">|[BasicTestSuite](https://github.com/cocode/BasicTestSuite)|A test suite for Basic|BASIC||-|-|-||
+|<img src="https://raw.githubusercontent.com/cocode/TrekBot/master/images/LogoTrans.png" alt="Logo" width="50" height="25">|[TrekBot](https://github.com/cocode/TrekBot)|A tool to exercise the superstartrek program|Rust|
 
 
 ## Tools
@@ -34,7 +34,7 @@ and is therefor only usable with TrekBasic in Python.
 The Rust version of TrekBot uses the same UI as humans, and so can be run against any implementation that uses stdin/stdout.
 
 ### Basic Test Suite
-THe Basic Test Suite is a series of programs, written in BASIC, to test an implementation. With a proper test runner, you can run the programs, as well as check return code and excpetions.
+The Basic Test Suite is a series of programs, written in BASIC, to test an implementation. With a proper test runner, you can run the programs, as well as check return code and excpetions.
 
 Each implementation has a test runner. (TrekBasic, TrekBasicJ, BasicRS)
 

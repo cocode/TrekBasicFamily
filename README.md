@@ -1,6 +1,6 @@
 # TrekBasic
 
-TrekBasic is a family of compilers, interpreters and tools for the BASIC programming language.
+TrekBasic is a family of compilers, interpreters and tools for the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language.
 
 All compiler and interpreter versions are intended to be byte-by-byte compatible. They're not there 
 yet — but they are close. TrekBot and BasicTestSuite are part of the
@@ -11,7 +11,7 @@ plan to ensure full compatibility.
 TrekBasic is part of the TrekBasic family of BASIC programming tools.
 
 | LOGO | Tool | Description | Language | Interpreter | Compiler |
-|-|------|-------------|----------|-------------|-------------|
+|---|------|-------------|----------|-------------|-------------|
 |<img src="https://raw.githubusercontent.com/cocode/TrekBASIC/refs/heads/master/images/TrekBasicLogo.png" alt="Logo" width="50" height="25">|[TrekBasic](https://github.com/cocode/TrekBASIC) | Basic compiler and interpreter | Python | Yes | Yes |
 |<img src="https://raw.githubusercontent.com/cocode/TrekBasicJ/main/images/logo7.png" alt="Logo" width="50" height="25">|[TrekBasicJ](https://github.com/cocode/TrekBasicJ)|Basic compiler and interpreter|Java|Yes|Yes|
 |<img src="https://raw.githubusercontent.com/cocode/BasicRS/master/images/logo2.png" alt="Logo" width="50" height="25">|[BasicRS](https://github.com/cocode/BasicRS)|Basic interpreter|Rust|Yes|pending|

@@ -6,10 +6,6 @@ All compiler and interpreter versions are intended to be byte-by-byte compatible
 yet — but they are close. TrekBot and BasicTestSuite are part of the
 plan to ensure full compatibility.
 
-## Why 'Trek'?
-The initial goal was to be able to play the old [Super Star Trek game](https://en.wikipedia.org/wiki/Star_Trek_(1971_video_game)),
-which was written in BASIC. That goal has been achieved.
-
 ## TrekBasic Family
 
 TrekBasic is part of the TrekBasic family of BASIC programming tools.
@@ -38,5 +34,7 @@ With a proper test runner, it can execute programs and verify return codes and e
 
 Each implementation (TrekBasic, TrekBasicJ, BasicRS) includes its own runner.
 
-
+## Why 'Trek'?
+The initial goal was to be able to play the old [Super Star Trek game](https://en.wikipedia.org/wiki/Star_Trek_(1971_video_game)),
+which was written in BASIC. That goal has been achieved.
 

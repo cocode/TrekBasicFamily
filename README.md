@@ -24,7 +24,7 @@ TrekBasic is a family of tools for working with the basic programming language.
 ### TrekBot
 TrekBot is a bot that plays Super Star Trek. It's used for automated testing and code coverage. 
 
-* The **Rust version** behaves like a human player by using stdin/stdout, making it compatible with any text-based implementation.
+* The **Rust version** of TrekBot behaves like a human player by using stdin/stdout, making it compatible with any text-based implementation.
 * The **Python Version** of TrekBot works by accessing internal data structures of the Python version of TrekBasic, 
 and is therefore only usable with TrekBasic in Python. 
 

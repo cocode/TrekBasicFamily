@@ -8,7 +8,7 @@ plan to ensure full compatibility.
 
 ## TrekBasic Family
 
-TrekBasic is part of the TrekBasic family of BASIC programming tools.
+TrekBasic is a family of tools for working with the basic programming language. 
 
 | LOGO | Tool | Description | Language | Interpreter | Compiler |
 |---|------|-------------|----------|-------------|-------------|
